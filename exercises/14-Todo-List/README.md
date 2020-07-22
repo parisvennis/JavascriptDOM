@@ -2,7 +2,7 @@
 
 This todo list design is pure css. The css and html is ready, but we need to code the Javascript part of the application. As you can see, when you initially run, the ability to delete or add items to the to-do list does not yet exist!
 
-## 📝 Instructions:
+## 📝 Instructions:c
 Please add the `"delete task"` and `"add task"` functionality. You don't have to edit anything from the HTML nor the CSS, only the javascript!
 
 ### 💡 Hint:
